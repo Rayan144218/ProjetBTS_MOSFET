@@ -1,5 +1,7 @@
 # Projet MOSFET
 # ⚡ Projet BTS - Simulation de Transistor MOSFET
+Mon fichier : [ProjetFinalRayanBelon.odt](https://github.com/user-attachments/files/24863884/ProjetFinalRayanBelon.odt)
+
 
 Bienvenue sur mon projet d'électronique !
 ## 📝 Description

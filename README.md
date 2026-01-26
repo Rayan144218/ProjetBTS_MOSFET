@@ -26,4 +26,4 @@ Voici le principe de connexion pour le test de "stress" du MOSFET :
 | **Générateur d'impulsion** | Contrôle la grille ($V_{gs}$) pour l'attaque |
 | **Shunt** | Mesure le courant $I_d$ sans perturber le circuit |
 
-<img width="1006" height="809" alt="image" src="https://github.com/user-attachments/assets/ad4a8c85-d771-4f48-b9c1-c3a9966aaf90" />
+![Capture d’écran 2026-01-26 162815](https://github.com/user-attachments/assets/67da4040-ff8e-4b0b-a80f-2116117b700b)

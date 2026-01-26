@@ -27,4 +27,5 @@ Voici le principe de connexion pour le test de "stress" du MOSFET :
 | **Shunt** | Mesure le courant $I_d$ sans perturber le circuit |
 
 > [!TIP]
-> Le test de conformité SOA est effectué à l'aide d'une impulsion unique de 10ms pour éviter l'échauffement excessif.
+> Le test de conformité SOA est effectué à l'aide d'une impulsion ![Capture d’écran 2026-01-26 162815](https://github.com/user-attachments/assets/8a0b6559-1b29-4668-a530-170154f98a9e)
+unique de 10ms pour éviter l'échauffement excessif.

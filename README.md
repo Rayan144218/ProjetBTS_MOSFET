@@ -1,11 +1,9 @@
 # Projet MOSFET
 # ⚡ Projet BTS - Simulation de Transistor MOSFET
 
-Bienvenue sur mon projet d'électronique ! Ce script Python permet de simuler le comportement d'un transistor MOSFET en calculant son courant de drain.
-
+Bienvenue sur mon projet d'électronique !
 ## 📝 Description
-Le but de ce programme est d'appliquer les formules théoriques vues en cours de **BTS** pour déterminer le courant $I_d$ en fonction de la tension $V_{gs}$.
-
+Suite aux problématiques de non-conformité rencontrées, mon projet consiste à concevoir et réaliser un système de test dynamique permettant de vérifier l’intégrité des MOSFET acquis par SPHEREA. L'objectif est de s'assurer que chaque composant respecte rigoureusement son Aire de Sécurité de Fonctionnement (SOA) avant son intégration dans les systèmes de puissance. 
 ## 🚀 Comment ça marche ?
 Le script utilise la formule de saturation :
 $$I_d = k \cdot (V_{gs} - V_{th})^2$$

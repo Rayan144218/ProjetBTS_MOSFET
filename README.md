@@ -17,13 +17,7 @@ Le principe de vérification repose sur l'application d'une impulsion contrôlé
     2. Injection : Le système applique ces contraintes au MOSFET.
     3. Analyse : On vérifie si le composant survit à l'impulsion sans dérive de ses caractéristiques thermiques ou électriques. Si le MOSFET supporte la charge dans le temps imparti, sa conformité à la courbe SOA est validée.
 
-## 🔌 Schéma du montage
-Voici le principe de connexion pour le test de "stress" du MOSFET :
+## 🔌 Synoptique
 
-| Composant | Rôle dans le test |
-| :--- | :--- |
-| **Alimentation** | Génère la tension $V_{ds}$ |
-| **Générateur d'impulsion** | Contrôle la grille ($V_{gs}$) pour l'attaque |
-| **Shunt** | Mesure le courant $I_d$ sans perturber le circuit |
 
 ![Capture d’écran 2026-01-26 162815](https://github.com/user-attachments/assets/67da4040-ff8e-4b0b-a80f-2116117b700b)

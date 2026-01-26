@@ -26,6 +26,4 @@ Voici le principe de connexion pour le test de "stress" du MOSFET :
 | **Générateur d'impulsion** | Contrôle la grille ($V_{gs}$) pour l'attaque |
 | **Shunt** | Mesure le courant $I_d$ sans perturber le circuit |
 
-> [!TIP]
-> Le test de conformité SOA est effectué à l'aide d'une impulsion ![Capture d’écran 2026-01-26 162815](https://github.com/user-attachments/assets/8a0b6559-1b29-4668-a530-170154f98a9e)
-unique de 10ms pour éviter l'échauffement excessif.
+<img width="1006" height="809" alt="image" src="https://github.com/user-attachments/assets/ad4a8c85-d771-4f48-b9c1-c3a9966aaf90" />

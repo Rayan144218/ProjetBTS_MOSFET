@@ -21,3 +21,8 @@ Le principe de vérification repose sur l'application d'une impulsion contrôlé
 
 
 ![Capture d’écran 2026-01-26 162815](https://github.com/user-attachments/assets/67da4040-ff8e-4b0b-a80f-2116117b700b)
+
+## SOA 
+
+<img width="725" height="734" alt="SOA" src="https://github.com/user-attachments/assets/d409612f-7d06-4ee0-aeaa-d29482ec7e79" />
+

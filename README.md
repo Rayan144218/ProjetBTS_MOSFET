@@ -28,6 +28,6 @@ Le principe de vérification repose sur l'application d'une impulsion contrôlé
 
 <img width="725" height="734" alt="SOA" src="https://github.com/user-attachments/assets/d409612f-7d06-4ee0-aeaa-d29482ec7e79" />
 
-[PrésentationRayanBelonDraw.drawio](https://github.com/user-attachments/files/24908535/PresentationRayanBelonDraw.drawio)
+<img width="641" height="618" alt="image" src="https://github.com/user-attachments/assets/0b0009a7-0dce-4abc-95fb-3a4d7e26018b" />
 
 

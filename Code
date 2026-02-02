@@ -1,0 +1,63 @@
+/* ========================================
+ *
+ * Copyright YOUR COMPANY, THE YEAR
+ * All Rights Reserved
+ * UNPUBLISHED, LICENSED SOFTWARE.
+ *
+ * CONFIDENTIAL AND PROPRIETARY INFORMATION
+ * WHICH IS THE PROPERTY OF your company.
+ *
+ * ========================================
+*/
+#include "project.h"
+
+int main(void)
+{
+    CyGlobalIntEnable; 
+    DAC_Start();
+    float t = 0;
+
+    for(;;)
+    {
+        while (t < 300)
+        {
+            DAC_SetValue(t);
+            t+=0.5;
+            CyDelayUs(100);
+        }
+        while (t < 3780)
+        {
+            DAC_SetValue(t);
+            t+=1;
+            CyDelayUs(100);
+        }
+        while (t < 4080)
+        {
+            DAC_SetValue(t);
+            t+=0.5;
+            CyDelayUs(100);
+        }
+        CyDelay(50);
+        while (t > 3780)
+        {
+            DAC_SetValue(t);
+            t-=0.5;
+            CyDelayUs(100);
+        }
+        while (t > 300)
+        {
+            DAC_SetValue(t);
+            t-=1;
+            CyDelayUs(100);
+        }
+        while (t > 0)
+        {
+            DAC_SetValue(t);
+            t-=0.5;
+            CyDelayUs(100);
+        }
+        CyDelay(50);
+    }
+}
+
+/* [] END OF FILE */
